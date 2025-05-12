@@ -4,7 +4,7 @@
 // Replace with the MAC address of the bot ESP8266
 //C8:C9:A3:69:94:09
 
-uint8_t botAddress[] = {0xC8, 0xC9, 0xA3, 0x69, 0x94, 0x09}; 
+uint8_t botAddress[] = {0x24, 0xD7, 0xEB, 0xEF, 0x0E, 0x53}; 
 
 typedef struct {
   char command[20]; // Command to send to the bot
